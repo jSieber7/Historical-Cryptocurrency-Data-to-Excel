@@ -1,3 +1,7 @@
 # Historical-Cryptocurrency-Data-to-Excel
 
-This program gets historical crypto data off the internet and exports it into an excell friendly format. The coins to get information from and the date range can easily be maniuplated through functions within the python file. Uses Beautiful Soup and Pandas, through Pandas a user can easily export the scraped data into many file formats. This program is particulary useful for keeping track of a cyrpto portfolio. An example fork of using the python file in this way will be provided at a later date.
+This program gets historical cryptocurrency data off the internet and exports it into an excel friendly format. 
+
+Through the functions in the python file, one can easily input what coins to gather information about and the date to receive this information.
+
+Uses Beautiful Soup and Pandas libraries. Through Pandas a user can easily export the scraped data into many different file formats. This program is particulary useful for keeping track of a cyrpto portfolio when used in conjunction with Pandas. An example of using the python file in this way will be provided through a fork at a later date.
